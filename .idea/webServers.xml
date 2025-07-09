@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="bf928912-e738-46b0-b0cb-c2f442af3ff3" name="MambaIR">
+        <fileTransfer accessType="SFTP" sshConfigId="381e1a26-e6bb-40e3-be18-87ecead61521" sshConfig="smu@222.197.103.235:22 key">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="3e3ebf44-e707-456d-bb5e-6f6bbf6001ce" name="ZJO (project level)">
+        <fileTransfer accessType="SFTP" host="39.99.222.199" port="7245" sshConfigId="6fe5ea05-5bc5-408a-ad34-266859b096b7" sshConfig="ji.zhang@39.99.222.199:7245 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="5c00733d-bf99-407f-90b0-d619746a92a3" name="CS (project level)">
+        <fileTransfer accessType="SFTP" host="39.99.222.199" port="7210" sshConfigId="253a9fc3-7efb-405e-a703-5bae84a3a01f" sshConfig="song.chen@39.99.222.199:7210 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="622aede3-e655-47fa-96fa-9e6b18b30e38" name="MFPMamba">
+        <fileTransfer accessType="SFTP" host="connect.westc.gpuhub.com" port="16539" sshConfigId="6fc472fb-194c-4141-9cd6-c850bb50dd6f" sshConfig="root@connect.westc.gpuhub.com:16539 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="On explicit save action" serverName="MFPMamba" filePermissions="420" folderPermissions="493" confirmBeforeDeletion="false">
+    <option name="confirmBeforeDeletion" value="false" />
+    <serverData>
+      <paths name="43083">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="8A6000">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="BS">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="CS">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/DATACENTER3/song.chen/code/MambaIR" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="CS (project level)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/DATACENTER3/song.chen/code/MambaIR" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="MFPMamba">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/autodl-tmp/MFPMamba" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="MambaIR">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/smu/codeFile/yanghuimin/CC/MambaIR" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="Mambasmu">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/smu/codeFile/yanghuimin/CC/smuMamba" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ZJO">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/ji.zhang/code/yhm/MambaIR" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ZJO (project level)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/ji.zhang/code/yhm/MambaIR" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="bs326@172.16.101.230:22 password">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ON_EXPLICIT_SAVE" />
+  </component>
+</project>

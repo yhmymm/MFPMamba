@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="222.197.101.244" id="f9656a10-4459-4d24-88c8-38d621c215da" keyPath="C:\Users\ymm\.ssh\id_rsa.rsa" port="22" nameFormat="DESCRIPTIVE" username="smu" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="39.99.222.199" id="6fe5ea05-5bc5-408a-ad34-266859b096b7" port="7245" nameFormat="DESCRIPTIVE" username="ji.zhang" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="39.99.222.199" id="253a9fc3-7efb-405e-a703-5bae84a3a01f" port="7210" nameFormat="DESCRIPTIVE" username="song.chen" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="connect.westc.gpuhub.com" id="779450b1-d27b-4fc2-bfd9-a34e5ed7f551" port="36347" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="connect.westc.gpuhub.com" id="1590ed11-78b5-4932-9fb4-fdefed1adf37" port="50240" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="connect.westc.gpuhub.com" id="6fc472fb-194c-4141-9cd6-c850bb50dd6f" port="16539" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>
