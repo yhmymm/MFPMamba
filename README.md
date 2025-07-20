@@ -52,7 +52,7 @@
 | MFPMamba_SR3         | Set14        | 30.61 | 0.8473 |   [link](https://drive.google.com/drive/folders/15iifLOeikT16Up7z-JAJmNu9WmCIv1b5?hl=zh-cn)    |
 | MFPMamba_SR4         | Set14        | 28.80 | 0.7863 |   [link](https://drive.google.com/drive/folders/15iifLOeikT16Up7z-JAJmNu9WmCIv1b5?hl=zh-cn)    |
 
-## <a name="r[LICENSE](LICENSE)esults"></a> 🥇 Results with MambaIRv2
+## <a name="r[LICENSE](LICENSE)esults"></a> 🥇 Results
 
 We achieve state-of-the-art performance on image super-resolution. Detailed results can be found in the paper.
 <p>
