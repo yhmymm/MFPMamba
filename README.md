@@ -88,7 +88,7 @@ Run the script then you can find the generated experimental logs in the folder e
 2. Follow the instructions below to begin testing our MambaIRv2 model.
 
 ```
-# test for lightweight image SR. 
+# test for image SR. 
 python basicsr/test.py -opt options/test/test_MFPMamba_lightSR_x2.yml
 python basicsr/test.py -opt options/test/test_MFPMamba_lightSR_x3.yml
 python basicsr/test.py -opt options/test/test_MFPMamba_lightSR_x4.yml
