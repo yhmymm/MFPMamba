@@ -12,8 +12,6 @@
 
 [//]: # (⭐If this work is helpful for you, please help star this repo. Thanks!🤗)
 
-
-
 ## 📑 Contents
 
 - [Visual Results](#visual_results)
@@ -54,8 +52,6 @@
 | MFPMamba_SR3         | Set14        | 30.61 | 0.8473 |   [link](https://drive.google.com/drive/folders/15iifLOeikT16Up7z-JAJmNu9WmCIv1b5?hl=zh-cn)    |
 | MFPMamba_SR4         | Set14        | 28.80 | 0.7863 |   [link](https://drive.google.com/drive/folders/15iifLOeikT16Up7z-JAJmNu9WmCIv1b5?hl=zh-cn)    |
 
-
-
 ## <a name="r[LICENSE](LICENSE)esults"></a> 🥇 Results with MambaIRv2
 
 We achieve state-of-the-art performance on image super-resolution. Detailed results can be found in the paper.
@@ -72,12 +68,7 @@ The datasets used in our training and testing are orgnized as follows:
 | :-------------------------------------------- |:------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------:|
 | image SR                                      | [DIV2K](https://data.vision.ee.ethz.ch/cvl/DIV2K/) (800 training images) | Set5 + Set14 + B100 + Urban100 + Manga109 [[download](https://drive.google.com/file/d/1n-7pmwjP0isZBK7w3tx2y8CTastlABx1/view?usp=sharing)] |
 
-
-
-
 ## <a name="training"></a> 🧠 Training
-
-
 1. Please download the corresponding training datasets and download the testing datasets.
 
 2. Follow the instructions below to begin training our model.
@@ -99,8 +90,8 @@ Run the script then you can find the generated experimental logs in the folder e
 ```
 # test for lightweight image SR. 
 python basicsr/test.py -opt options/test/test_MFPMamba_lightSR_x2.yml
-python basicsr/test.py -opt options/test/test_MFPMamba_lightSR_x2.yml
-python basicsr/test.py -opt options/test/test_MFPMamba_lightSR_x2.yml
+python basicsr/test.py -opt options/test/test_MFPMamba_lightSR_x3.yml
+python basicsr/test.py -opt options/test/test_MFPMamba_lightSR_x4.yml
 ```
 ## <a name="acknowledgements"></a> 🙏 Acknowledgements
 
