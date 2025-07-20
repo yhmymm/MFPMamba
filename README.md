@@ -31,13 +31,13 @@
     <img src="assets/x2.png" width="600px">
 </p>
 
-### x2 visual_result, you can download from: 
+### x3 visual_result, you can download from: 
 [x3_visualResult](https://drive.google.com/drive/folders/15iifLOeikT16Up7z-JAJmNu9WmCIv1b5?hl=zh-cn)
 <p>
     <img src="assets/x3.png" width="600px">
 </p>
 
-### x2 visual_result, you can download from: 
+### x4 visual_result, you can download from: 
 [x4_visualResult](https://drive.google.com/drive/folders/15iifLOeikT16Up7z-JAJmNu9WmCIv1b5?hl=zh-cn)
 <p>
     <img src="assets/x4.png" width="600px">
