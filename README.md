@@ -85,7 +85,7 @@ Run the script then you can find the generated experimental logs in the folder e
 
 1. Please download the corresponding testing datasets and download the corresponding models.
 
-2. Follow the instructions below to begin testing our MambaIRv2 model.
+2. Follow the instructions below to begin testing our model.
 
 ```
 # test for image SR. 
